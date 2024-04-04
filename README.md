@@ -9,7 +9,8 @@
 <br>
 
 <p align="left"> Let's connect!</p>
- 
+
+ <div class="tenor-gif-embed" data-postid="22710398" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/goku-gif-22710398">Goku GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  <div align="left">
   <a href="mailto:kimartyom.dev@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-8B0215?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-8B0215?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
