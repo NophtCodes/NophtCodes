@@ -7,9 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nophtcodes&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-<div style="display: inline_block" align="center">
 <div class="tenor-gif-embed" data-postid="24919715" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/goku-gif-24919715">Goku GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- </div>
   
   ##
 <p align="left"> Let's connect!</p>
