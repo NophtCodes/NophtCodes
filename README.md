@@ -1,11 +1,3 @@
-## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif">    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8B0215&vCenter=true&random=false&width=336&height=30&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Typing SVG" /></a></p>
-<div style="display: inline_block" align="center">
-<a href="https://app.daily.dev/" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="nopht" height="30" width="30" /></a>
-<a href="https://medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ibtriz" height="30" width="40" /></a>
-</div>
-
-##
 
 <p align="left">I'm a Software Engineer and a student with a passion for technology and a desire to contribute to innovative projects</p>
 <p align="left">Currently working on JavaScript and React. Exploring web dev.</p>
