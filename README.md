@@ -8,8 +8,7 @@
 </div>
 <br>
 <div style="display: inline_block" align="center">
-<img align="right" height="179" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv">
-
+<div class="tenor-gif-embed" data-postid="24919715" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/goku-gif-24919715">Goku GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  </div>
   
   ##
