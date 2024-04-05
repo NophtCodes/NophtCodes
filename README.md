@@ -1,4 +1,4 @@
-
+<h1>Hey!</h1>
 <p align="left">I'm a Software Engineer and a student with a passion for technology and a desire to contribute to innovative projects</p>
 <p align="left">Currently working on JavaScript and React. Exploring web dev.</p>
   <div>
